@@ -1,4 +1,4 @@
-package activity;
+package activity_fundamentals.activity_3;
 
 import java.util.Scanner;
 

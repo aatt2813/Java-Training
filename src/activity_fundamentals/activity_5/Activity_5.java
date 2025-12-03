@@ -1,4 +1,4 @@
-package activity;
+package activity_fundamentals.activity_5;
 
 public class Activity_5 {
 
