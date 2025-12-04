@@ -1,4 +1,4 @@
-package M1_Activity5;
+package m1_activity5;
 
 public class Activity_5 {
 

@@ -1,4 +1,4 @@
-package M1_Activity3;
+package m1_activity3;
 
 import java.util.Scanner;
 
