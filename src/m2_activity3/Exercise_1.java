@@ -1,4 +1,4 @@
-package m2_exercise1;
+package m2_activity3;
 
 public class Exercise_1 {
 
