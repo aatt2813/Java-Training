@@ -1,20 +1,16 @@
 package m2_activity4;
 
-// MSExcel.java
 public class MSExcel implements Executable {
 	
-		@Override
-		public void run() {
-			
-				System.out.println("Opening MS Excel...");
-				
-		}
-
-		@Override
-		public void stop() {
-			
-				System.out.println("Stopping MS Excel...");
-				
-		}
-		
+	@Override
+	public void run() {
+		String message = "Opening MS Excel...";
+		System.out.println(message);
+	}
+	
+	@Override
+	public void stop() {
+		String message = "Stopping MS Excel...";
+		System.out.println(message);
+	}
 }
